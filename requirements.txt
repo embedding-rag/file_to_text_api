@@ -1,0 +1,44 @@
+# Web Framework
+fastapi==0.100.0       # Fast API framework for building APIs with Python
+
+# Data Validation
+pydantic==1.10.12      # Data validation and settings management using Python type hints
+
+# ASGI Server
+uvicorn==0.23.2        # ASGI server for FastAPI applications
+
+# Code Formatting
+black==23.7.0          # Code formatter
+
+# PDF and Docx Processing
+pdfminer.six==20221105 # PDF parser and analyzer
+python-docx==1.1.0          # Extract text from Word documents
+PyMuPDF==1.23.5        # Python bindings for MuPDF
+PyPDF2==3.0.1          # PDF toolkit
+
+# HTTP Requests
+requests==2.31.0       # HTTP library for making requests
+
+# Testing
+pytest==7.4.3          # Testing framework
+
+# Import Order Linting
+isort==5.12.0          # Utility to sort imports
+
+# Markdown
+Markdown==3.5.1        # Markdown parsing
+
+# Image and File Processing
+filetype==1.2.0      # Library for file type identification
+
+# Import Order Linting
+isort==5.12.0        # Utility to sort imports
+
+# Excel Processing
+xlrd==2.0.1          # Library for reading data and formatting information from Excel files
+
+# Data Analysis
+pandas==2.0.3        # Data manipulation and analysis library
+
+# HTML Processing
+beautifulsoup4==4.12.2  # Library for pulling data out of HTML and XML files
